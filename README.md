@@ -1,4 +1,4 @@
-## 👋 I'm Vedant, engineer in training, debugger by instinct.
+## 👋 I'm Vedant, engineer in training, developer by instinct.
 
 ![Banner Image](images/Banner.png)
 
